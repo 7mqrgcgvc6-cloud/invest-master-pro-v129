@@ -1,0 +1,4558 @@
+{
+  "created_ts": 1779413419.6525688,
+  "updated_at": "01:30",
+  "items": [
+    {
+      "ok": true,
+      "code": "6526",
+      "name": "ソシオネクスト",
+      "price": 1006.5,
+      "prev_close": 1010.5,
+      "change": -4.0,
+      "change_pct": -0.3958436417615042,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 13.1,
+      "pbr": 0.69,
+      "roe": 29.9,
+      "dividend_yield": 4.3,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "売られすぎ",
+          "color": "red"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 949.8,
+        "resistance": 1109.4,
+        "buy_zone": "949.8〜987.8円",
+        "take_profit_1": "1142.7円",
+        "take_profit_2": "1220.3円",
+        "loss_cut": "921.3円",
+        "rsi14": 34.1,
+        "volume_ratio": 2.25,
+        "reason": "高速判定。支持線949.8円、抵抗線1109.4円、RSI34.1、出来高2.25倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 99,
+      "score_breakdown": {
+        "value_score": 32,
+        "technical_score": 24,
+        "catalyst_points": 21,
+        "total": 99
+      },
+      "category": "AI候補",
+      "theme": "半導体・AI / AI半導体 / 先端SoC",
+      "theme_tags": [
+        "半導体・AI"
+      ],
+      "news_tags": [
+        "AI半導体",
+        "先端SoC"
+      ],
+      "earnings_score": 13,
+      "news_score": 17,
+      "macro_score": 16,
+      "catalyst_score": 46,
+      "earnings_summary": "AI半導体テーマを評価",
+      "catalyst_reason": "良決算/業績材料 +13 / ニュース材料 +17 / 世界情勢テーマ +16",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +13 / ニュース材料 +17 / 世界情勢テーマ +16。割安32点、テクニカル24点、材料加点21点。AI半導体テーマを評価",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5802",
+      "name": "住友電工",
+      "price": 1008.0,
+      "prev_close": 1027.9,
+      "change": -19.90000000000009,
+      "change_pct": -1.9359859908551502,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 20.6,
+      "pbr": 1.46,
+      "roe": 34.6,
+      "dividend_yield": 3.53,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 968.7,
+        "resistance": 1069.1,
+        "buy_zone": "968.7〜1007.4円",
+        "take_profit_1": "1101.2円",
+        "take_profit_2": "1176.0円",
+        "loss_cut": "939.6円",
+        "rsi14": 46.1,
+        "volume_ratio": 2.36,
+        "reason": "高速判定。支持線968.7円、抵抗線1069.1円、RSI46.1、出来高2.36倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 99,
+      "score_breakdown": {
+        "value_score": 22,
+        "technical_score": 24,
+        "catalyst_points": 20,
+        "total": 99
+      },
+      "category": "AI候補",
+      "theme": "半導体・AI / データセンター / 送電網投資",
+      "theme_tags": [
+        "半導体・AI"
+      ],
+      "news_tags": [
+        "データセンター",
+        "送電網投資"
+      ],
+      "earnings_score": 14,
+      "news_score": 14,
+      "macro_score": 16,
+      "catalyst_score": 44,
+      "earnings_summary": "電線・電力インフラテーマ",
+      "catalyst_reason": "良決算/業績材料 +14 / ニュース材料 +14 / 世界情勢テーマ +16",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +14 / ニュース材料 +14 / 世界情勢テーマ +16。割安22点、テクニカル24点、材料加点20点。電線・電力インフラテーマ",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6758",
+      "name": "ソニーグループ",
+      "price": 999.8,
+      "prev_close": 995.7,
+      "change": 4.099999999999909,
+      "change_pct": 0.41177061363863704,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 27.2,
+      "pbr": 1.13,
+      "roe": 32.2,
+      "dividend_yield": 4.66,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 947.8,
+        "resistance": 1040.9,
+        "buy_zone": "947.8〜985.7円",
+        "take_profit_1": "1072.1円",
+        "take_profit_2": "1145.0円",
+        "loss_cut": "919.4円",
+        "rsi14": 51.8,
+        "volume_ratio": 2.11,
+        "reason": "高速判定。支持線947.8円、抵抗線1040.9円、RSI51.8、出来高2.11倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 88,
+      "score_breakdown": {
+        "value_score": 26,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 88
+      },
+      "category": "AI候補",
+      "theme": "ゲーム/半導体",
+      "theme_tags": [],
+      "news_tags": [
+        "ゲーム/半導体"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安26点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6146",
+      "name": "ディスコ",
+      "price": 1008.3,
+      "prev_close": 1005.4,
+      "change": 2.8999999999999773,
+      "change_pct": 0.28844241098070195,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 15.7,
+      "pbr": 0.85,
+      "roe": 11.0,
+      "dividend_yield": 0.34,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 924.8,
+        "resistance": 1114.7,
+        "buy_zone": "924.8〜961.8円",
+        "take_profit_1": "1148.1円",
+        "take_profit_2": "1226.2円",
+        "loss_cut": "897.1円",
+        "rsi14": 41.7,
+        "volume_ratio": 1.88,
+        "reason": "高速判定。支持線924.8円、抵抗線1114.7円、RSI41.7、出来高1.88倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 86,
+      "score_breakdown": {
+        "value_score": 6,
+        "technical_score": 24,
+        "catalyst_points": 21,
+        "total": 86
+      },
+      "category": "AI候補",
+      "theme": "半導体・AI / AI半導体 / 装置需要",
+      "theme_tags": [
+        "半導体・AI"
+      ],
+      "news_tags": [
+        "AI半導体",
+        "装置需要"
+      ],
+      "earnings_score": 16,
+      "news_score": 15,
+      "macro_score": 16,
+      "catalyst_score": 47,
+      "earnings_summary": "半導体装置・高収益企業",
+      "catalyst_reason": "良決算/業績材料 +16 / ニュース材料 +15 / 世界情勢テーマ +16",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +16 / ニュース材料 +15 / 世界情勢テーマ +16。割安6点、テクニカル24点、材料加点21点。半導体装置・高収益企業",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6752",
+      "name": "パナソニックHD",
+      "price": 1020.4,
+      "prev_close": 1029.2,
+      "change": -8.800000000000068,
+      "change_pct": -0.8550330353672821,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 7.9,
+      "pbr": 0.81,
+      "roe": 27.3,
+      "dividend_yield": 2.77,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 943.5,
+        "resistance": 1088.7,
+        "buy_zone": "943.5〜981.2円",
+        "take_profit_1": "1121.4円",
+        "take_profit_2": "1197.6円",
+        "loss_cut": "915.2円",
+        "rsi14": 49.5,
+        "volume_ratio": 1.83,
+        "reason": "高速判定。支持線943.5円、抵抗線1088.7円、RSI49.5、出来高1.83倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 86,
+      "score_breakdown": {
+        "value_score": 24,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 86
+      },
+      "category": "AI候補",
+      "theme": "電池/家電",
+      "theme_tags": [],
+      "news_tags": [
+        "電池/家電"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安24点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5253",
+      "name": "カバー",
+      "price": 994.5,
+      "prev_close": 1003.2,
+      "change": -8.700000000000045,
+      "change_pct": -0.8672248803827797,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 9.6,
+      "pbr": 3.02,
+      "roe": 19.6,
+      "dividend_yield": 3.75,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 940.0,
+        "resistance": 1108.6,
+        "buy_zone": "940.0〜977.6円",
+        "take_profit_1": "1141.9円",
+        "take_profit_2": "1219.5円",
+        "loss_cut": "911.8円",
+        "rsi14": 36.8,
+        "volume_ratio": 1.61,
+        "reason": "高速判定。支持線940.0円、抵抗線1108.6円、RSI36.8、出来高1.61倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 84,
+      "score_breakdown": {
+        "value_score": 22,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 84
+      },
+      "category": "AI候補",
+      "theme": "エンタメ/成長",
+      "theme_tags": [],
+      "news_tags": [
+        "エンタメ/成長"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安22点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6702",
+      "name": "富士通",
+      "price": 975.4,
+      "prev_close": 990.1,
+      "change": -14.700000000000045,
+      "change_pct": -1.4846985153014893,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 20.6,
+      "pbr": 0.74,
+      "roe": 15.8,
+      "dividend_yield": 3.41,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "売られすぎ",
+          "color": "red"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 924.8,
+        "resistance": 1074.2,
+        "buy_zone": "924.8〜961.8円",
+        "take_profit_1": "1106.4円",
+        "take_profit_2": "1181.6円",
+        "loss_cut": "897.1円",
+        "rsi14": 32.1,
+        "volume_ratio": 2.05,
+        "reason": "高速判定。支持線924.8円、抵抗線1074.2円、RSI32.1、出来高2.05倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 84,
+      "score_breakdown": {
+        "value_score": 22,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 84
+      },
+      "category": "AI候補",
+      "theme": "IT/AI",
+      "theme_tags": [],
+      "news_tags": [
+        "IT/AI"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安22点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1909",
+      "name": "日本ドライケミカル",
+      "price": 3118.5,
+      "prev_close": 3159.1,
+      "change": -40.59999999999991,
+      "change_pct": -1.2851761577664496,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 27.6,
+      "pbr": 3.17,
+      "roe": 27.9,
+      "dividend_yield": 3.0,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 2948.1,
+        "resistance": 3423.3,
+        "buy_zone": "2948.1〜3066.0円",
+        "take_profit_1": "3526.0円",
+        "take_profit_2": "3765.6円",
+        "loss_cut": "2859.7円",
+        "rsi14": 50.5,
+        "volume_ratio": 1.5,
+        "reason": "高速判定。支持線2948.1円、抵抗線3423.3円、RSI50.5、出来高1.5倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 83,
+      "score_breakdown": {
+        "value_score": 10,
+        "technical_score": 16,
+        "catalyst_points": 22,
+        "total": 83
+      },
+      "category": "AI候補",
+      "theme": "防衛・地政学 / 防衛・防災テーマ / インフラ老朽化対策",
+      "theme_tags": [
+        "防衛・地政学"
+      ],
+      "news_tags": [
+        "防衛・防災テーマ",
+        "インフラ老朽化対策"
+      ],
+      "earnings_score": 16,
+      "news_score": 14,
+      "macro_score": 18,
+      "catalyst_score": 48,
+      "earnings_summary": "防災・防衛関連需要を評価",
+      "catalyst_reason": "良決算/業績材料 +16 / ニュース材料 +14 / 世界情勢テーマ +18",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +16 / ニュース材料 +14 / 世界情勢テーマ +18。割安10点、テクニカル16点、材料加点22点。防災・防衛関連需要を評価",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5803",
+      "name": "フジクラ",
+      "price": 997.7,
+      "prev_close": 999.3,
+      "change": -1.599999999999909,
+      "change_pct": -0.16011207845490935,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 8.3,
+      "pbr": 2.2,
+      "roe": 22.3,
+      "dividend_yield": 1.79,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 904.6,
+        "resistance": 1101.1,
+        "buy_zone": "904.6〜940.8円",
+        "take_profit_1": "1134.1円",
+        "take_profit_2": "1211.2円",
+        "loss_cut": "877.5円",
+        "rsi14": 63.0,
+        "volume_ratio": 1.05,
+        "reason": "高速判定。支持線904.6円、抵抗線1101.1円、RSI63.0、出来高1.05倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 82,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 0,
+        "catalyst_points": 29,
+        "total": 82
+      },
+      "category": "AI候補",
+      "theme": "半導体・AI / データセンター・電力 / 生成AI / データセンター",
+      "theme_tags": [
+        "半導体・AI",
+        "データセンター・電力"
+      ],
+      "news_tags": [
+        "生成AI",
+        "データセンター"
+      ],
+      "earnings_score": 17,
+      "news_score": 17,
+      "macro_score": 31,
+      "catalyst_score": 65,
+      "earnings_summary": "データセンター光配線テーマ",
+      "catalyst_reason": "良決算/業績材料 +17 / ニュース材料 +17 / 世界情勢テーマ +31",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +17 / ニュース材料 +17 / 世界情勢テーマ +31。割安18点、テクニカル0点、材料加点29点。データセンター光配線テーマ",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "2502",
+      "name": "アサヒグループHD",
+      "price": 1002.3,
+      "prev_close": 1015.0,
+      "change": -12.700000000000045,
+      "change_pct": -1.2512315270936005,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 6.3,
+      "pbr": 3.49,
+      "roe": 33.7,
+      "dividend_yield": 4.01,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 946.0,
+        "resistance": 1074.8,
+        "buy_zone": "946.0〜983.8円",
+        "take_profit_1": "1107.0円",
+        "take_profit_2": "1182.3円",
+        "loss_cut": "917.6円",
+        "rsi14": 37.1,
+        "volume_ratio": 1.19,
+        "reason": "高速判定。支持線946.0円、抵抗線1074.8円、RSI37.1、出来高1.19倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 82,
+      "score_breakdown": {
+        "value_score": 28,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 82
+      },
+      "category": "AI候補",
+      "theme": "食品/内需",
+      "theme_tags": [],
+      "news_tags": [
+        "食品/内需"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安28点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4751",
+      "name": "サイバーエージェント",
+      "price": 1008.6,
+      "prev_close": 1023.5,
+      "change": -14.899999999999977,
+      "change_pct": -1.4557889594528555,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 6.5,
+      "pbr": 1.46,
+      "roe": 28.7,
+      "dividend_yield": 3.38,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 918.6,
+        "resistance": 1059.3,
+        "buy_zone": "918.6〜955.3円",
+        "take_profit_1": "1091.1円",
+        "take_profit_2": "1165.2円",
+        "loss_cut": "891.0円",
+        "rsi14": 65.7,
+        "volume_ratio": 1.99,
+        "reason": "高速判定。支持線918.6円、抵抗線1059.3円、RSI65.7、出来高1.99倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 82,
+      "score_breakdown": {
+        "value_score": 28,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 82
+      },
+      "category": "AI候補",
+      "theme": "ネット/広告",
+      "theme_tags": [],
+      "news_tags": [
+        "ネット/広告"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安28点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4425",
+      "name": "Kudan",
+      "price": 1881.0,
+      "prev_close": 1885.2,
+      "change": -4.2000000000000455,
+      "change_pct": -0.22278803309993875,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 23.8,
+      "pbr": 2.66,
+      "roe": 14.1,
+      "dividend_yield": 4.09,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 1720.9,
+        "resistance": 2109.2,
+        "buy_zone": "1720.9〜1789.7円",
+        "take_profit_1": "2172.5円",
+        "take_profit_2": "2320.1円",
+        "loss_cut": "1669.3円",
+        "rsi14": 48.8,
+        "volume_ratio": 2.05,
+        "reason": "高速判定。支持線1720.9円、抵抗線2109.2円、RSI48.8、出来高2.05倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 80,
+      "score_breakdown": {
+        "value_score": 4,
+        "technical_score": 24,
+        "catalyst_points": 17,
+        "total": 80
+      },
+      "category": "AI候補",
+      "theme": "AI・自動運転 / AI / 自動運転・ロボット",
+      "theme_tags": [
+        "AI・自動運転"
+      ],
+      "news_tags": [
+        "AI",
+        "自動運転・ロボット"
+      ],
+      "earnings_score": 8,
+      "news_score": 15,
+      "macro_score": 14,
+      "catalyst_score": 37,
+      "earnings_summary": "空間認識AIテーマ",
+      "catalyst_reason": "良決算/業績材料 +8 / ニュース材料 +15 / 世界情勢テーマ +14",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +8 / ニュース材料 +15 / 世界情勢テーマ +14。割安4点、テクニカル24点、材料加点17点。空間認識AIテーマ",
+      "fast_mode": true,
+      "shares": 300.0,
+      "avg_price": 2674.0,
+      "value": 564300.0,
+      "cost": 802200.0,
+      "profit": -237900.0,
+      "profit_pct": -29.65594614809274
+    },
+    {
+      "ok": true,
+      "code": "1801",
+      "name": "大成建設",
+      "price": 979.4,
+      "prev_close": 997.3,
+      "change": -17.899999999999977,
+      "change_pct": -1.794846084427953,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 6.2,
+      "pbr": 2.15,
+      "roe": 15.7,
+      "dividend_yield": 0.87,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 940.1,
+        "resistance": 1056.3,
+        "buy_zone": "940.1〜977.7円",
+        "take_profit_1": "1088.0円",
+        "take_profit_2": "1161.9円",
+        "loss_cut": "911.9円",
+        "rsi14": 36.8,
+        "volume_ratio": 1.62,
+        "reason": "高速判定。支持線940.1円、抵抗線1056.3円、RSI36.8、出来高1.62倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 80,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 80
+      },
+      "category": "AI候補",
+      "theme": "建設/インフラ",
+      "theme_tags": [],
+      "news_tags": [
+        "建設/インフラ"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4568",
+      "name": "第一三共",
+      "price": 982.1,
+      "prev_close": 999.5,
+      "change": -17.399999999999977,
+      "change_pct": -1.7408704352176068,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 15.6,
+      "pbr": 0.65,
+      "roe": 20.5,
+      "dividend_yield": 0.99,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 897.0,
+        "resistance": 1054.6,
+        "buy_zone": "897.0〜932.9円",
+        "take_profit_1": "1086.2円",
+        "take_profit_2": "1160.1円",
+        "loss_cut": "870.1円",
+        "rsi14": 39.6,
+        "volume_ratio": 1.59,
+        "reason": "高速判定。支持線897.0円、抵抗線1054.6円、RSI39.6、出来高1.59倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 80,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 80
+      },
+      "category": "AI候補",
+      "theme": "医薬品/成長",
+      "theme_tags": [],
+      "news_tags": [
+        "医薬品/成長"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6740",
+      "name": "ジャパンディスプレイ",
+      "price": 18.6,
+      "prev_close": 18.3,
+      "change": 0.3000000000000007,
+      "change_pct": 1.6393442622950858,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 12.1,
+      "pbr": 1.26,
+      "roe": 16.3,
+      "dividend_yield": 0.89,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 17.3,
+        "resistance": 19.6,
+        "buy_zone": "17.3〜18.0円",
+        "take_profit_1": "20.2円",
+        "take_profit_2": "21.6円",
+        "loss_cut": "16.8円",
+        "rsi14": 41.8,
+        "volume_ratio": 2.06,
+        "reason": "高速判定。支持線17.3円、抵抗線19.6円、RSI41.8、出来高2.06倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 80,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 80
+      },
+      "category": "AI候補",
+      "theme": "再建/材料",
+      "theme_tags": [],
+      "news_tags": [
+        "再建/材料"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true,
+      "shares": 558.0,
+      "avg_price": 67.0,
+      "value": 10378.800000000001,
+      "cost": 37386.0,
+      "profit": -27007.199999999997,
+      "profit_pct": -72.23880597014924
+    },
+    {
+      "ok": true,
+      "code": "1925",
+      "name": "大和ハウス工業",
+      "price": 1011.5,
+      "prev_close": 1003.8,
+      "change": 7.7000000000000455,
+      "change_pct": 0.7670850767085122,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 27.0,
+      "pbr": 2.02,
+      "roe": 30.2,
+      "dividend_yield": 3.78,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 974.5,
+        "resistance": 1122.3,
+        "buy_zone": "974.5〜1013.5円",
+        "take_profit_1": "1156.0円",
+        "take_profit_2": "1234.5円",
+        "loss_cut": "945.3円",
+        "rsi14": 37.7,
+        "volume_ratio": 1.61,
+        "reason": "高速判定。支持線974.5円、抵抗線1122.3円、RSI37.7、出来高1.61倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 78,
+      "score_breakdown": {
+        "value_score": 16,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 78
+      },
+      "category": "AI候補",
+      "theme": "住宅/建設",
+      "theme_tags": [],
+      "news_tags": [
+        "住宅/建設"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安16点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "3092",
+      "name": "ZOZO",
+      "price": 977.6,
+      "prev_close": 982.1,
+      "change": -4.5,
+      "change_pct": -0.45820181244272473,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 15.0,
+      "pbr": 0.8,
+      "roe": 18.5,
+      "dividend_yield": 4.2,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 916.3,
+        "resistance": 1024.8,
+        "buy_zone": "916.3〜953.0円",
+        "take_profit_1": "1055.5円",
+        "take_profit_2": "1127.3円",
+        "loss_cut": "888.8円",
+        "rsi14": 53.0,
+        "volume_ratio": 0.84,
+        "reason": "高速判定。支持線916.3円、抵抗線1024.8円、RSI53.0、出来高0.84倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 78,
+      "score_breakdown": {
+        "value_score": 32,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 78
+      },
+      "category": "AI候補",
+      "theme": "小売/EC",
+      "theme_tags": [],
+      "news_tags": [
+        "小売/EC"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安32点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6902",
+      "name": "デンソー",
+      "price": 981.7,
+      "prev_close": 985.5,
+      "change": -3.7999999999999545,
+      "change_pct": -0.38559107052257274,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 18.4,
+      "pbr": 0.56,
+      "roe": 33.1,
+      "dividend_yield": 1.5,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 946.9,
+        "resistance": 1098.2,
+        "buy_zone": "946.9〜984.8円",
+        "take_profit_1": "1131.1円",
+        "take_profit_2": "1208.0円",
+        "loss_cut": "918.5円",
+        "rsi14": 50.8,
+        "volume_ratio": 1.51,
+        "reason": "高速判定。支持線946.9円、抵抗線1098.2円、RSI50.8、出来高1.51倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 78,
+      "score_breakdown": {
+        "value_score": 24,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 78
+      },
+      "category": "AI候補",
+      "theme": "自動車/半導体",
+      "theme_tags": [],
+      "news_tags": [
+        "自動車/半導体"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安24点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4755",
+      "name": "楽天グループ",
+      "price": 1024.0,
+      "prev_close": 1037.0,
+      "change": -13.0,
+      "change_pct": -1.253616200578592,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 24.5,
+      "pbr": 1.67,
+      "roe": 29.2,
+      "dividend_yield": 4.45,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 945.6,
+        "resistance": 1092.5,
+        "buy_zone": "945.6〜983.4円",
+        "take_profit_1": "1125.3円",
+        "take_profit_2": "1201.8円",
+        "loss_cut": "917.2円",
+        "rsi14": 44.3,
+        "volume_ratio": 1.94,
+        "reason": "高速判定。支持線945.6円、抵抗線1092.5円、RSI44.3、出来高1.94倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 76,
+      "score_breakdown": {
+        "value_score": 14,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 76
+      },
+      "category": "AI候補",
+      "theme": "通信/EC",
+      "theme_tags": [],
+      "news_tags": [
+        "通信/EC"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安14点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6503",
+      "name": "三菱電機",
+      "price": 1013.5,
+      "prev_close": 1011.6,
+      "change": 1.8999999999999773,
+      "change_pct": 0.18782127323052364,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 8.0,
+      "pbr": 1.04,
+      "roe": 37.6,
+      "dividend_yield": 1.02,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 915.3,
+        "resistance": 1114.8,
+        "buy_zone": "915.3〜951.9円",
+        "take_profit_1": "1148.2円",
+        "take_profit_2": "1226.3円",
+        "loss_cut": "887.8円",
+        "rsi14": 49.3,
+        "volume_ratio": 0.99,
+        "reason": "高速判定。支持線915.3円、抵抗線1114.8円、RSI49.3、出来高0.99倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 76,
+      "score_breakdown": {
+        "value_score": 30,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 76
+      },
+      "category": "AI候補",
+      "theme": "電力/FA",
+      "theme_tags": [],
+      "news_tags": [
+        "電力/FA"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安30点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6326",
+      "name": "クボタ",
+      "price": 1000.2,
+      "prev_close": 983.0,
+      "change": 17.200000000000045,
+      "change_pct": 1.7497456765005133,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 17.8,
+      "pbr": 0.61,
+      "roe": 7.5,
+      "dividend_yield": 1.98,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 919.1,
+        "resistance": 1052.2,
+        "buy_zone": "919.1〜955.9円",
+        "take_profit_1": "1083.8円",
+        "take_profit_2": "1157.4円",
+        "loss_cut": "891.5円",
+        "rsi14": 36.6,
+        "volume_ratio": 2.35,
+        "reason": "高速判定。支持線919.1円、抵抗線1052.2円、RSI36.6、出来高2.35倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 74,
+      "score_breakdown": {
+        "value_score": 12,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 74
+      },
+      "category": "AI候補",
+      "theme": "農機/円安",
+      "theme_tags": [],
+      "news_tags": [
+        "農機/円安"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安12点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6701",
+      "name": "NEC",
+      "price": 977.4,
+      "prev_close": 962.8,
+      "change": 14.600000000000023,
+      "change_pct": 1.5164104694640654,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 14.5,
+      "pbr": 1.38,
+      "roe": 10.8,
+      "dividend_yield": 2.95,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 908.0,
+        "resistance": 1071.5,
+        "buy_zone": "908.0〜944.3円",
+        "take_profit_1": "1103.6円",
+        "take_profit_2": "1178.7円",
+        "loss_cut": "880.8円",
+        "rsi14": 43.7,
+        "volume_ratio": 1.7,
+        "reason": "高速判定。支持線908.0円、抵抗線1071.5円、RSI43.7、出来高1.7倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 74,
+      "score_breakdown": {
+        "value_score": 12,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 74
+      },
+      "category": "AI候補",
+      "theme": "AI/防衛/IT",
+      "theme_tags": [],
+      "news_tags": [
+        "AI/防衛/IT"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安12点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6971",
+      "name": "京セラ",
+      "price": 1004.7,
+      "prev_close": 999.7,
+      "change": 5.0,
+      "change_pct": 0.500150045013504,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 13.1,
+      "pbr": 0.88,
+      "roe": 5.4,
+      "dividend_yield": 4.62,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 916.7,
+        "resistance": 1097.3,
+        "buy_zone": "916.7〜953.4円",
+        "take_profit_1": "1130.2円",
+        "take_profit_2": "1207.0円",
+        "loss_cut": "889.2円",
+        "rsi14": 64.0,
+        "volume_ratio": 2.14,
+        "reason": "高速判定。支持線916.7円、抵抗線1097.3円、RSI64.0、出来高2.14倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 74,
+      "score_breakdown": {
+        "value_score": 20,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 74
+      },
+      "category": "AI候補",
+      "theme": "電子部品",
+      "theme_tags": [],
+      "news_tags": [
+        "電子部品"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安20点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6981",
+      "name": "村田製作所",
+      "price": 1004.6,
+      "prev_close": 986.7,
+      "change": 17.899999999999977,
+      "change_pct": 1.8141279010844205,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 21.1,
+      "pbr": 0.85,
+      "roe": 29.0,
+      "dividend_yield": 2.71,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 923.7,
+        "resistance": 1065.4,
+        "buy_zone": "923.7〜960.6円",
+        "take_profit_1": "1097.4円",
+        "take_profit_2": "1171.9円",
+        "loss_cut": "896.0円",
+        "rsi14": 37.3,
+        "volume_ratio": 2.38,
+        "reason": "高速判定。支持線923.7円、抵抗線1065.4円、RSI37.3、出来高2.38倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 74,
+      "score_breakdown": {
+        "value_score": 12,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 74
+      },
+      "category": "AI候補",
+      "theme": "電子部品",
+      "theme_tags": [],
+      "news_tags": [
+        "電子部品"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安12点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5016",
+      "name": "JX金属",
+      "price": 912.1,
+      "prev_close": 929.0,
+      "change": -16.899999999999977,
+      "change_pct": -1.8191603875134528,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 13.0,
+      "pbr": 2.73,
+      "roe": 35.8,
+      "dividend_yield": 1.95,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 848.5,
+        "resistance": 996.7,
+        "buy_zone": "848.5〜882.4円",
+        "take_profit_1": "1026.6円",
+        "take_profit_2": "1096.4円",
+        "loss_cut": "823.0円",
+        "rsi14": 42.4,
+        "volume_ratio": 1.07,
+        "reason": "高速判定。支持線848.5円、抵抗線996.7円、RSI42.4、出来高1.07倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 8,
+        "catalyst_points": 11,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "銅価格 / 半導体材料",
+      "theme_tags": [],
+      "news_tags": [
+        "銅価格",
+        "半導体材料"
+      ],
+      "earnings_score": 12,
+      "news_score": 12,
+      "macro_score": 0,
+      "catalyst_score": 24,
+      "earnings_summary": "非鉄・半導体素材テーマ",
+      "catalyst_reason": "良決算/業績材料 +12 / ニュース材料 +12",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +12 / ニュース材料 +12。割安18点、テクニカル8点、材料加点11点。非鉄・半導体素材テーマ",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4063",
+      "name": "信越化学工業",
+      "price": 978.7,
+      "prev_close": 990.1,
+      "change": -11.399999999999977,
+      "change_pct": -1.151398848601149,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 13.6,
+      "pbr": 2.27,
+      "roe": 30.2,
+      "dividend_yield": 1.39,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 904.2,
+        "resistance": 1019.8,
+        "buy_zone": "904.2〜940.4円",
+        "take_profit_1": "1050.4円",
+        "take_profit_2": "1121.8円",
+        "loss_cut": "877.1円",
+        "rsi14": 61.8,
+        "volume_ratio": 1.6,
+        "reason": "高速判定。支持線904.2円、抵抗線1019.8円、RSI61.8、出来高1.6倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "半導体材料",
+      "theme_tags": [],
+      "news_tags": [
+        "半導体材料"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4385",
+      "name": "メルカリ",
+      "price": 984.8,
+      "prev_close": 980.8,
+      "change": 4.0,
+      "change_pct": 0.4078303425774878,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 19.7,
+      "pbr": 1.42,
+      "roe": 31.3,
+      "dividend_yield": 0.6,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 913.1,
+        "resistance": 1064.1,
+        "buy_zone": "913.1〜949.6円",
+        "take_profit_1": "1096.0円",
+        "take_profit_2": "1170.5円",
+        "loss_cut": "885.7円",
+        "rsi14": 48.6,
+        "volume_ratio": 1.52,
+        "reason": "高速判定。支持線913.1円、抵抗線1064.1円、RSI48.6、出来高1.52倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "IT/成長",
+      "theme_tags": [],
+      "news_tags": [
+        "IT/成長"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4519",
+      "name": "中外製薬",
+      "price": 1018.9,
+      "prev_close": 1032.0,
+      "change": -13.100000000000023,
+      "change_pct": -1.2693798449612426,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 15.6,
+      "pbr": 1.37,
+      "roe": 30.0,
+      "dividend_yield": 0.49,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 962.9,
+        "resistance": 1151.1,
+        "buy_zone": "962.9〜1001.4円",
+        "take_profit_1": "1185.6円",
+        "take_profit_2": "1266.2円",
+        "loss_cut": "934.0円",
+        "rsi14": 57.1,
+        "volume_ratio": 2.12,
+        "reason": "高速判定。支持線962.9円、抵抗線1151.1円、RSI57.1、出来高2.12倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "医薬品/成長",
+      "theme_tags": [],
+      "news_tags": [
+        "医薬品/成長"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5108",
+      "name": "ブリヂストン",
+      "price": 995.3,
+      "prev_close": 996.1,
+      "change": -0.8000000000000682,
+      "change_pct": -0.08031322156410683,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 8.1,
+      "pbr": 2.02,
+      "roe": 16.2,
+      "dividend_yield": 2.94,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 933.7,
+        "resistance": 1088.8,
+        "buy_zone": "933.7〜971.0円",
+        "take_profit_1": "1121.5円",
+        "take_profit_2": "1197.7円",
+        "loss_cut": "905.7円",
+        "rsi14": 57.8,
+        "volume_ratio": 2.36,
+        "reason": "高速判定。支持線933.7円、抵抗線1088.8円、RSI57.8、出来高2.36倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "自動車部材/円安",
+      "theme_tags": [],
+      "news_tags": [
+        "自動車部材/円安"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5411",
+      "name": "JFE HD",
+      "price": 1001.0,
+      "prev_close": 1011.3,
+      "change": -10.299999999999955,
+      "change_pct": -1.0184910511223133,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 18.1,
+      "pbr": 0.77,
+      "roe": 24.6,
+      "dividend_yield": 0.88,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 902.6,
+        "resistance": 1068.1,
+        "buy_zone": "902.6〜938.7円",
+        "take_profit_1": "1100.1円",
+        "take_profit_2": "1174.9円",
+        "loss_cut": "875.5円",
+        "rsi14": 63.3,
+        "volume_ratio": 1.6,
+        "reason": "高速判定。支持線902.6円、抵抗線1068.1円、RSI63.3、出来高1.6倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "鉄鋼/バリュー",
+      "theme_tags": [],
+      "news_tags": [
+        "鉄鋼/バリュー"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6301",
+      "name": "コマツ",
+      "price": 1018.7,
+      "prev_close": 1025.5,
+      "change": -6.7999999999999545,
+      "change_pct": -0.6630911750365631,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 9.8,
+      "pbr": 3.32,
+      "roe": 25.0,
+      "dividend_yield": 1.77,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "売られすぎ",
+          "color": "red"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 969.7,
+        "resistance": 1065.6,
+        "buy_zone": "969.7〜1008.5円",
+        "take_profit_1": "1097.6円",
+        "take_profit_2": "1172.2円",
+        "loss_cut": "940.6円",
+        "rsi14": 33.0,
+        "volume_ratio": 1.31,
+        "reason": "高速判定。支持線969.7円、抵抗線1065.6円、RSI33.0、出来高1.31倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "建機/円安",
+      "theme_tags": [],
+      "news_tags": [
+        "建機/円安"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6861",
+      "name": "キーエンス",
+      "price": 989.3,
+      "prev_close": 991.1,
+      "change": -1.8000000000000682,
+      "change_pct": -0.18161638583392878,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 11.8,
+      "pbr": 2.21,
+      "roe": 3.9,
+      "dividend_yield": 3.25,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "売られすぎ",
+          "color": "red"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 933.7,
+        "resistance": 1054.3,
+        "buy_zone": "933.7〜971.0円",
+        "take_profit_1": "1085.9円",
+        "take_profit_2": "1159.7円",
+        "loss_cut": "905.7円",
+        "rsi14": 32.8,
+        "volume_ratio": 2.14,
+        "reason": "高速判定。支持線933.7円、抵抗線1054.3円、RSI32.8、出来高2.14倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 72,
+      "score_breakdown": {
+        "value_score": 10,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 72
+      },
+      "category": "AI候補",
+      "theme": "FA/高収益",
+      "theme_tags": [],
+      "news_tags": [
+        "FA/高収益"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安10点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6857",
+      "name": "アドバンテスト",
+      "price": 1001.2,
+      "prev_close": 1003.1,
+      "change": -1.8999999999999773,
+      "change_pct": -0.1894128202572004,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 27.0,
+      "pbr": 3.45,
+      "roe": 19.1,
+      "dividend_yield": 2.4,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 969.0,
+        "resistance": 1074.8,
+        "buy_zone": "969.0〜1007.8円",
+        "take_profit_1": "1107.0円",
+        "take_profit_2": "1182.3円",
+        "loss_cut": "939.9円",
+        "rsi14": 63.1,
+        "volume_ratio": 1.56,
+        "reason": "高速判定。支持線969.0円、抵抗線1074.8円、RSI63.1、出来高1.56倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 71,
+      "score_breakdown": {
+        "value_score": 6,
+        "technical_score": 8,
+        "catalyst_points": 22,
+        "total": 71
+      },
+      "category": "AI候補",
+      "theme": "半導体・AI / AI半導体 / HBM関連",
+      "theme_tags": [
+        "半導体・AI"
+      ],
+      "news_tags": [
+        "AI半導体",
+        "HBM関連"
+      ],
+      "earnings_score": 16,
+      "news_score": 16,
+      "macro_score": 16,
+      "catalyst_score": 48,
+      "earnings_summary": "生成AI向けテスター需要",
+      "catalyst_reason": "良決算/業績材料 +16 / ニュース材料 +16 / 世界情勢テーマ +16",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +16 / ニュース材料 +16 / 世界情勢テーマ +16。割安6点、テクニカル8点、材料加点22点。生成AI向けテスター需要",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "3778",
+      "name": "さくらインターネット",
+      "price": 1018.0,
+      "prev_close": 1028.2,
+      "change": -10.200000000000045,
+      "change_pct": -0.9920248978797943,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 24.8,
+      "pbr": 3.32,
+      "roe": 3.6,
+      "dividend_yield": 1.17,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 979.2,
+        "resistance": 1098.4,
+        "buy_zone": "979.2〜1018.4円",
+        "take_profit_1": "1131.4円",
+        "take_profit_2": "1208.2円",
+        "loss_cut": "949.8円",
+        "rsi14": 35.7,
+        "volume_ratio": 1.45,
+        "reason": "高速判定。支持線979.2円、抵抗線1098.4円、RSI35.7、出来高1.45倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 71,
+      "score_breakdown": {
+        "value_score": 0,
+        "technical_score": 16,
+        "catalyst_points": 20,
+        "total": 71
+      },
+      "category": "AI候補",
+      "theme": "データセンター・電力 / データセンター / 国策クラウド",
+      "theme_tags": [
+        "データセンター・電力"
+      ],
+      "news_tags": [
+        "データセンター",
+        "国策クラウド"
+      ],
+      "earnings_score": 12,
+      "news_score": 18,
+      "macro_score": 15,
+      "catalyst_score": 45,
+      "earnings_summary": "国産クラウド・AI計算基盤テーマ",
+      "catalyst_reason": "良決算/業績材料 +12 / ニュース材料 +18 / 世界情勢テーマ +15",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +12 / ニュース材料 +18 / 世界情勢テーマ +15。割安0点、テクニカル16点、材料加点20点。国産クラウド・AI計算基盤テーマ",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5401",
+      "name": "日本製鉄",
+      "price": 3218.1,
+      "prev_close": 3248.9,
+      "change": -30.800000000000182,
+      "change_pct": -0.9480131736895621,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 7.9,
+      "pbr": 0.83,
+      "roe": 13.0,
+      "dividend_yield": 1.97,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 3096.2,
+        "resistance": 3461.0,
+        "buy_zone": "3096.2〜3220.0円",
+        "take_profit_1": "3564.8円",
+        "take_profit_2": "3807.1円",
+        "loss_cut": "3003.3円",
+        "rsi14": 65.5,
+        "volume_ratio": 1.68,
+        "reason": "高速判定。支持線3096.2円、抵抗線3461.0円、RSI65.5、出来高1.68倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 68,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 8,
+        "catalyst_points": 7,
+        "total": 68
+      },
+      "category": "AI候補",
+      "theme": "円安メリット / 鉄鋼/バリュー",
+      "theme_tags": [
+        "円安メリット"
+      ],
+      "news_tags": [
+        "鉄鋼/バリュー"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 10,
+      "catalyst_score": 16,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6 / 世界情勢テーマ +10",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6 / 世界情勢テーマ +10。割安18点、テクニカル8点、材料加点7点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1803",
+      "name": "清水建設",
+      "price": 978.5,
+      "prev_close": 988.5,
+      "change": -10.0,
+      "change_pct": -1.0116337885685383,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 27.6,
+      "pbr": 2.51,
+      "roe": 20.0,
+      "dividend_yield": 1.66,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 914.7,
+        "resistance": 1073.4,
+        "buy_zone": "914.7〜951.3円",
+        "take_profit_1": "1105.6円",
+        "take_profit_2": "1180.7円",
+        "loss_cut": "887.3円",
+        "rsi14": 46.8,
+        "volume_ratio": 2.15,
+        "reason": "高速判定。支持線914.7円、抵抗線1073.4円、RSI46.8、出来高2.15倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 68,
+      "score_breakdown": {
+        "value_score": 6,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 68
+      },
+      "category": "AI候補",
+      "theme": "建設/インフラ",
+      "theme_tags": [],
+      "news_tags": [
+        "建設/インフラ"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安6点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6594",
+      "name": "ニデック",
+      "price": 1005.1,
+      "prev_close": 991.4,
+      "change": 13.700000000000045,
+      "change_pct": 1.381884204155744,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 15.0,
+      "pbr": 2.59,
+      "roe": 33.3,
+      "dividend_yield": 3.09,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 934.8,
+        "resistance": 1096.5,
+        "buy_zone": "934.8〜972.2円",
+        "take_profit_1": "1129.4円",
+        "take_profit_2": "1206.2円",
+        "loss_cut": "906.8円",
+        "rsi14": 42.2,
+        "volume_ratio": 1.29,
+        "reason": "高速判定。支持線934.8円、抵抗線1096.5円、RSI42.2、出来高1.29倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 68,
+      "score_breakdown": {
+        "value_score": 22,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 68
+      },
+      "category": "AI候補",
+      "theme": "モーター/EV",
+      "theme_tags": [],
+      "news_tags": [
+        "モーター/EV"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安22点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6501",
+      "name": "日立製作所",
+      "price": 1012.3,
+      "prev_close": 1003.5,
+      "change": 8.799999999999955,
+      "change_pct": 0.87693074240159,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 19.1,
+      "pbr": 2.68,
+      "roe": 13.4,
+      "dividend_yield": 3.48,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 960.0,
+        "resistance": 1070.4,
+        "buy_zone": "960.0〜998.4円",
+        "take_profit_1": "1102.5円",
+        "take_profit_2": "1177.4円",
+        "loss_cut": "931.2円",
+        "rsi14": 67.7,
+        "volume_ratio": 1.27,
+        "reason": "高速判定。支持線960.0円、抵抗線1070.4円、RSI67.7、出来高1.27倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 66,
+      "score_breakdown": {
+        "value_score": 4,
+        "technical_score": 0,
+        "catalyst_points": 27,
+        "total": 66
+      },
+      "category": "AI候補",
+      "theme": "データセンター・電力 / AI・自動運転 / 生成AIインフラ / 電力網",
+      "theme_tags": [
+        "データセンター・電力",
+        "AI・自動運転"
+      ],
+      "news_tags": [
+        "生成AIインフラ",
+        "電力網"
+      ],
+      "earnings_score": 16,
+      "news_score": 16,
+      "macro_score": 29,
+      "catalyst_score": 61,
+      "earnings_summary": "電力・データセンター・AIインフラ",
+      "catalyst_reason": "良決算/業績材料 +16 / ニュース材料 +16 / 世界情勢テーマ +29",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +16 / ニュース材料 +16 / 世界情勢テーマ +29。割安4点、テクニカル0点、材料加点27点。電力・データセンター・AIインフラ",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1802",
+      "name": "大林組",
+      "price": 1004.0,
+      "prev_close": 1002.5,
+      "change": 1.5,
+      "change_pct": 0.14962593516209477,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 7.3,
+      "pbr": 1.74,
+      "roe": 6.3,
+      "dividend_yield": 2.07,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 905.9,
+        "resistance": 1069.6,
+        "buy_zone": "905.9〜942.1円",
+        "take_profit_1": "1101.7円",
+        "take_profit_2": "1176.6円",
+        "loss_cut": "878.7円",
+        "rsi14": 60.8,
+        "volume_ratio": 2.34,
+        "reason": "高速判定。支持線905.9円、抵抗線1069.6円、RSI60.8、出来高2.34倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 66,
+      "score_breakdown": {
+        "value_score": 12,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 66
+      },
+      "category": "AI候補",
+      "theme": "建設/インフラ",
+      "theme_tags": [],
+      "news_tags": [
+        "建設/インフラ"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安12点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1928",
+      "name": "積水ハウス",
+      "price": 1006.6,
+      "prev_close": 1023.8,
+      "change": -17.199999999999932,
+      "change_pct": -1.6800156280523473,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 18.0,
+      "pbr": 3.21,
+      "roe": 32.0,
+      "dividend_yield": 2.48,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 922.1,
+        "resistance": 1077.0,
+        "buy_zone": "922.1〜959.0円",
+        "take_profit_1": "1109.3円",
+        "take_profit_2": "1184.7円",
+        "loss_cut": "894.4円",
+        "rsi14": 36.6,
+        "volume_ratio": 1.48,
+        "reason": "高速判定。支持線922.1円、抵抗線1077.0円、RSI36.6、出来高1.48倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 66,
+      "score_breakdown": {
+        "value_score": 12,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 66
+      },
+      "category": "AI候補",
+      "theme": "住宅/建設",
+      "theme_tags": [],
+      "news_tags": [
+        "住宅/建設"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安12点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5713",
+      "name": "住友金属鉱山",
+      "price": 993.7,
+      "prev_close": 997.7,
+      "change": -4.0,
+      "change_pct": -0.4009221208780194,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 22.0,
+      "pbr": 2.41,
+      "roe": 11.0,
+      "dividend_yield": 3.83,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 914.4,
+        "resistance": 1118.8,
+        "buy_zone": "914.4〜951.0円",
+        "take_profit_1": "1152.4円",
+        "take_profit_2": "1230.7円",
+        "loss_cut": "887.0円",
+        "rsi14": 37.9,
+        "volume_ratio": 2.38,
+        "reason": "高速判定。支持線914.4円、抵抗線1118.8円、RSI37.9、出来高2.38倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 66,
+      "score_breakdown": {
+        "value_score": 4,
+        "technical_score": 24,
+        "catalyst_points": 3,
+        "total": 66
+      },
+      "category": "AI候補",
+      "theme": "非鉄/資源",
+      "theme_tags": [],
+      "news_tags": [
+        "非鉄/資源"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安4点、テクニカル24点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6273",
+      "name": "SMC",
+      "price": 987.7,
+      "prev_close": 974.6,
+      "change": 13.100000000000023,
+      "change_pct": 1.3441411861276444,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 8.8,
+      "pbr": 1.6,
+      "roe": 36.6,
+      "dividend_yield": 3.58,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 956.2,
+        "resistance": 1081.1,
+        "buy_zone": "956.2〜994.4円",
+        "take_profit_1": "1113.5円",
+        "take_profit_2": "1189.2円",
+        "loss_cut": "927.5円",
+        "rsi14": 64.9,
+        "volume_ratio": 1.07,
+        "reason": "高速判定。支持線956.2円、抵抗線1081.1円、RSI64.9、出来高1.07倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 66,
+      "score_breakdown": {
+        "value_score": 28,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 66
+      },
+      "category": "AI候補",
+      "theme": "FA/設備投資",
+      "theme_tags": [],
+      "news_tags": [
+        "FA/設備投資"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安28点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1812",
+      "name": "鹿島",
+      "price": 1003.6,
+      "prev_close": 1005.6,
+      "change": -2.0,
+      "change_pct": -0.1988862370723946,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 14.3,
+      "pbr": 1.69,
+      "roe": 31.4,
+      "dividend_yield": 2.38,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 971.7,
+        "resistance": 1055.9,
+        "buy_zone": "971.7〜1010.6円",
+        "take_profit_1": "1087.6円",
+        "take_profit_2": "1161.5円",
+        "loss_cut": "942.5円",
+        "rsi14": 62.9,
+        "volume_ratio": 2.0,
+        "reason": "高速判定。支持線971.7円、抵抗線1055.9円、RSI62.9、出来高2.0倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 64,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 64
+      },
+      "category": "AI候補",
+      "theme": "建設/インフラ",
+      "theme_tags": [],
+      "news_tags": [
+        "建設/インフラ"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "3436",
+      "name": "SUMCO",
+      "price": 993.0,
+      "prev_close": 1001.8,
+      "change": -8.799999999999955,
+      "change_pct": -0.8784188460770568,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 8.4,
+      "pbr": 2.09,
+      "roe": 19.2,
+      "dividend_yield": 1.67,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 940.1,
+        "resistance": 1108.5,
+        "buy_zone": "940.1〜977.7円",
+        "take_profit_1": "1141.8円",
+        "take_profit_2": "1219.4円",
+        "loss_cut": "911.9円",
+        "rsi14": 45.6,
+        "volume_ratio": 1.15,
+        "reason": "高速判定。支持線940.1円、抵抗線1108.5円、RSI45.6、出来高1.15倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 64,
+      "score_breakdown": {
+        "value_score": 18,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 64
+      },
+      "category": "AI候補",
+      "theme": "半導体素材",
+      "theme_tags": [],
+      "news_tags": [
+        "半導体素材"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安18点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "3382",
+      "name": "セブン&アイHD",
+      "price": 975.6,
+      "prev_close": 979.1,
+      "change": -3.5,
+      "change_pct": -0.35747114697170873,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 20.3,
+      "pbr": 3.09,
+      "roe": 33.7,
+      "dividend_yield": 3.22,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "強い",
+          "color": "red"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 893.0,
+        "resistance": 1080.6,
+        "buy_zone": "893.0〜928.7円",
+        "take_profit_1": "1113.0円",
+        "take_profit_2": "1188.7円",
+        "loss_cut": "866.2円",
+        "rsi14": 48.3,
+        "volume_ratio": 1.18,
+        "reason": "高速判定。支持線893.0円、抵抗線1080.6円、RSI48.3、出来高1.18倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 62,
+      "score_breakdown": {
+        "value_score": 16,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 62
+      },
+      "category": "AI候補",
+      "theme": "小売/内需",
+      "theme_tags": [],
+      "news_tags": [
+        "小売/内需"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安16点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "3402",
+      "name": "東レ",
+      "price": 987.1,
+      "prev_close": 1001.7,
+      "change": -14.600000000000023,
+      "change_pct": -1.4575222122391955,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 23.5,
+      "pbr": 2.36,
+      "roe": 23.8,
+      "dividend_yield": 2.51,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 941.6,
+        "resistance": 1068.4,
+        "buy_zone": "941.6〜979.3円",
+        "take_profit_1": "1100.5円",
+        "take_profit_2": "1175.2円",
+        "loss_cut": "913.4円",
+        "rsi14": 64.9,
+        "volume_ratio": 2.04,
+        "reason": "高速判定。支持線941.6円、抵抗線1068.4円、RSI64.9、出来高2.04倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 60,
+      "score_breakdown": {
+        "value_score": 6,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 60
+      },
+      "category": "AI候補",
+      "theme": "素材/炭素繊維",
+      "theme_tags": [],
+      "news_tags": [
+        "素材/炭素繊維"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安6点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6723",
+      "name": "ルネサスエレクトロニクス",
+      "price": 1020.7,
+      "prev_close": 1005.5,
+      "change": 15.200000000000045,
+      "change_pct": 1.5116857284932914,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 7.0,
+      "pbr": 2.52,
+      "roe": 28.0,
+      "dividend_yield": 3.95,
+      "evals": {
+        "per": {
+          "label": "割安",
+          "color": "red"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 961.4,
+        "resistance": 1066.5,
+        "buy_zone": "961.4〜999.9円",
+        "take_profit_1": "1098.5円",
+        "take_profit_2": "1173.2円",
+        "loss_cut": "932.6円",
+        "rsi14": 65.5,
+        "volume_ratio": 1.46,
+        "reason": "高速判定。支持線961.4円、抵抗線1066.5円、RSI65.5、出来高1.46倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 60,
+      "score_breakdown": {
+        "value_score": 22,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 60
+      },
+      "category": "AI候補",
+      "theme": "半導体/車載",
+      "theme_tags": [],
+      "news_tags": [
+        "半導体/車載"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安22点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "7011",
+      "name": "三菱重工業",
+      "price": 990.8,
+      "prev_close": 997.3,
+      "change": -6.5,
+      "change_pct": -0.6517597513285872,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 22.2,
+      "pbr": 3.33,
+      "roe": 5.0,
+      "dividend_yield": 0.94,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 894.3,
+        "resistance": 1070.8,
+        "buy_zone": "894.3〜930.1円",
+        "take_profit_1": "1102.9円",
+        "take_profit_2": "1177.9円",
+        "loss_cut": "867.5円",
+        "rsi14": 60.3,
+        "volume_ratio": 1.3,
+        "reason": "高速判定。支持線894.3円、抵抗線1070.8円、RSI60.3、出来高1.3倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 59,
+      "score_breakdown": {
+        "value_score": 0,
+        "technical_score": 0,
+        "catalyst_points": 24,
+        "total": 59
+      },
+      "category": "AI候補",
+      "theme": "防衛・地政学 / 防衛費拡大 / 宇宙・原子力・ガスタービン",
+      "theme_tags": [
+        "防衛・地政学"
+      ],
+      "news_tags": [
+        "防衛費拡大",
+        "宇宙・原子力・ガスタービン"
+      ],
+      "earnings_score": 18,
+      "news_score": 18,
+      "macro_score": 18,
+      "catalyst_score": 54,
+      "earnings_summary": "受注残・防衛関連テーマを評価",
+      "catalyst_reason": "良決算/業績材料 +18 / ニュース材料 +18 / 世界情勢テーマ +18",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +18 / ニュース材料 +18 / 世界情勢テーマ +18。割安0点、テクニカル0点、材料加点24点。受注残・防衛関連テーマを評価",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1332",
+      "name": "ニッスイ",
+      "price": 1003.0,
+      "prev_close": 985.5,
+      "change": 17.5,
+      "change_pct": 1.7757483510908167,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 28.0,
+      "pbr": 3.29,
+      "roe": 10.3,
+      "dividend_yield": 4.04,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 962.9,
+        "resistance": 1093.1,
+        "buy_zone": "962.9〜1001.4円",
+        "take_profit_1": "1125.9円",
+        "take_profit_2": "1202.4円",
+        "loss_cut": "934.0円",
+        "rsi14": 57.4,
+        "volume_ratio": 2.28,
+        "reason": "高速判定。支持線962.9円、抵抗線1093.1円、RSI57.4、出来高2.28倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 58,
+      "score_breakdown": {
+        "value_score": 4,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 58
+      },
+      "category": "AI候補",
+      "theme": "食品/ディフェンシブ",
+      "theme_tags": [],
+      "news_tags": [
+        "食品/ディフェンシブ"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安4点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4188",
+      "name": "三菱ケミカルG",
+      "price": 992.3,
+      "prev_close": 980.1,
+      "change": 12.199999999999932,
+      "change_pct": 1.2447709417406316,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 11.3,
+      "pbr": 2.22,
+      "roe": 24.7,
+      "dividend_yield": 2.55,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 956.8,
+        "resistance": 1063.3,
+        "buy_zone": "956.8〜995.1円",
+        "take_profit_1": "1095.2円",
+        "take_profit_2": "1169.6円",
+        "loss_cut": "928.1円",
+        "rsi14": 53.2,
+        "volume_ratio": 1.08,
+        "reason": "高速判定。支持線956.8円、抵抗線1063.3円、RSI53.2、出来高1.08倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 58,
+      "score_breakdown": {
+        "value_score": 12,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 58
+      },
+      "category": "AI候補",
+      "theme": "素材/化学",
+      "theme_tags": [],
+      "news_tags": [
+        "素材/化学"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安12点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "5020",
+      "name": "ENEOS HD",
+      "price": 1002.8,
+      "prev_close": 992.8,
+      "change": 10.0,
+      "change_pct": 1.0072522159548751,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 25.3,
+      "pbr": 3.22,
+      "roe": 7.6,
+      "dividend_yield": 3.35,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "上抜け監視",
+        "support": 951.2,
+        "resistance": 1099.1,
+        "buy_zone": "951.2〜989.2円",
+        "take_profit_1": "1132.1円",
+        "take_profit_2": "1209.0円",
+        "loss_cut": "922.7円",
+        "rsi14": 62.7,
+        "volume_ratio": 2.07,
+        "reason": "高速判定。支持線951.2円、抵抗線1099.1円、RSI62.7、出来高2.07倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 58,
+      "score_breakdown": {
+        "value_score": 4,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 58
+      },
+      "category": "AI候補",
+      "theme": "資源/高配当",
+      "theme_tags": [],
+      "news_tags": [
+        "資源/高配当"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安4点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6098",
+      "name": "リクルートHD",
+      "price": 1017.5,
+      "prev_close": 998.6,
+      "change": 18.899999999999977,
+      "change_pct": 1.8926497095934285,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 26.2,
+      "pbr": 0.47,
+      "roe": 12.6,
+      "dividend_yield": 5.19,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "割安",
+          "color": "red"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 935.2,
+        "resistance": 1103.5,
+        "buy_zone": "935.2〜972.6円",
+        "take_profit_1": "1136.6円",
+        "take_profit_2": "1213.9円",
+        "loss_cut": "907.1円",
+        "rsi14": 58.5,
+        "volume_ratio": 1.06,
+        "reason": "高速判定。支持線935.2円、抵抗線1103.5円、RSI58.5、出来高1.06倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 58,
+      "score_breakdown": {
+        "value_score": 20,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 58
+      },
+      "category": "AI候補",
+      "theme": "人材/IT",
+      "theme_tags": [],
+      "news_tags": [
+        "人材/IT"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安20点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "3038",
+      "name": "神戸物産",
+      "price": 978.2,
+      "prev_close": 970.7,
+      "change": 7.5,
+      "change_pct": 0.7726383022561037,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 17.2,
+      "pbr": 3.3,
+      "roe": 21.6,
+      "dividend_yield": 3.82,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "出来高増",
+          "color": "red"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 946.9,
+        "resistance": 1024.4,
+        "buy_zone": "946.9〜984.8円",
+        "take_profit_1": "1055.1円",
+        "take_profit_2": "1126.8円",
+        "loss_cut": "918.5円",
+        "rsi14": 64.9,
+        "volume_ratio": 1.78,
+        "reason": "高速判定。支持線946.9円、抵抗線1024.4円、RSI64.9、出来高1.78倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 56,
+      "score_breakdown": {
+        "value_score": 10,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 56
+      },
+      "category": "AI候補",
+      "theme": "小売/食品",
+      "theme_tags": [],
+      "news_tags": [
+        "小売/食品"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安10点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6178",
+      "name": "日本郵政",
+      "price": 982.6,
+      "prev_close": 991.3,
+      "change": -8.699999999999932,
+      "change_pct": -0.8776354282255556,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 24.0,
+      "pbr": 3.17,
+      "roe": 8.2,
+      "dividend_yield": 1.66,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "売られすぎ",
+          "color": "red"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "反発狙い",
+        "support": 901.3,
+        "resistance": 1055.8,
+        "buy_zone": "901.3〜937.4円",
+        "take_profit_1": "1087.5円",
+        "take_profit_2": "1161.4円",
+        "loss_cut": "874.3円",
+        "rsi14": 33.5,
+        "volume_ratio": 1.17,
+        "reason": "高速判定。支持線901.3円、抵抗線1055.8円、RSI33.5、出来高1.17倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 54,
+      "score_breakdown": {
+        "value_score": 0,
+        "technical_score": 16,
+        "catalyst_points": 3,
+        "total": 54
+      },
+      "category": "AI候補",
+      "theme": "高配当/金融",
+      "theme_tags": [],
+      "news_tags": [
+        "高配当/金融"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安0点、テクニカル16点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "6954",
+      "name": "ファナック",
+      "price": 1018.2,
+      "prev_close": 1034.3,
+      "change": -16.09999999999991,
+      "change_pct": -1.5566083341390224,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 10.1,
+      "pbr": 1.25,
+      "roe": 11.5,
+      "dividend_yield": 3.46,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 974.3,
+        "resistance": 1105.3,
+        "buy_zone": "974.3〜1013.3円",
+        "take_profit_1": "1138.5円",
+        "take_profit_2": "1215.8円",
+        "loss_cut": "945.1円",
+        "rsi14": 59.6,
+        "volume_ratio": 1.38,
+        "reason": "高速判定。支持線974.3円、抵抗線1105.3円、RSI59.6、出来高1.38倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 54,
+      "score_breakdown": {
+        "value_score": 16,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 54
+      },
+      "category": "AI候補",
+      "theme": "FA/ロボット",
+      "theme_tags": [],
+      "news_tags": [
+        "FA/ロボット"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安16点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4004",
+      "name": "レゾナックHD",
+      "price": 990.8,
+      "prev_close": 1008.2,
+      "change": -17.40000000000009,
+      "change_pct": -1.7258480460226235,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 21.0,
+      "pbr": 1.08,
+      "roe": 13.0,
+      "dividend_yield": 5.01,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "高配当",
+          "color": "red"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 934.1,
+        "resistance": 1076.7,
+        "buy_zone": "934.1〜971.5円",
+        "take_profit_1": "1109.0円",
+        "take_profit_2": "1184.4円",
+        "loss_cut": "906.1円",
+        "rsi14": 62.8,
+        "volume_ratio": 0.87,
+        "reason": "高速判定。支持線934.1円、抵抗線1076.7円、RSI62.8、出来高0.87倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 52,
+      "score_breakdown": {
+        "value_score": 14,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 52
+      },
+      "category": "AI候補",
+      "theme": "半導体材料",
+      "theme_tags": [],
+      "news_tags": [
+        "半導体材料"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安14点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "4502",
+      "name": "武田薬品工業",
+      "price": 1001.9,
+      "prev_close": 1001.1,
+      "change": 0.7999999999999545,
+      "change_pct": 0.07991209669363246,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 20.5,
+      "pbr": 1.54,
+      "roe": 28.0,
+      "dividend_yield": 2.5,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 930.5,
+        "resistance": 1085.3,
+        "buy_zone": "930.5〜967.7円",
+        "take_profit_1": "1117.9円",
+        "take_profit_2": "1193.8円",
+        "loss_cut": "902.6円",
+        "rsi14": 43.5,
+        "volume_ratio": 1.31,
+        "reason": "高速判定。支持線930.5円、抵抗線1085.3円、RSI43.5、出来高1.31倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 52,
+      "score_breakdown": {
+        "value_score": 6,
+        "technical_score": 8,
+        "catalyst_points": 3,
+        "total": 52
+      },
+      "category": "AI候補",
+      "theme": "医薬品/高配当",
+      "theme_tags": [],
+      "news_tags": [
+        "医薬品/高配当"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安6点、テクニカル8点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "1605",
+      "name": "INPEX",
+      "price": 2039.7,
+      "prev_close": 2065.6,
+      "change": -25.899999999999864,
+      "change_pct": -1.25387296669248,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 20.7,
+      "pbr": 1.93,
+      "roe": 11.5,
+      "dividend_yield": 0.21,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 1837.8,
+        "resistance": 2292.0,
+        "buy_zone": "1837.8〜1911.3円",
+        "take_profit_1": "2360.8円",
+        "take_profit_2": "2521.2円",
+        "loss_cut": "1782.7円",
+        "rsi14": 64.9,
+        "volume_ratio": 1.0,
+        "reason": "高速判定。支持線1837.8円、抵抗線2292.0円、RSI64.9、出来高1.0倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 51,
+      "score_breakdown": {
+        "value_score": 0,
+        "technical_score": 0,
+        "catalyst_points": 16,
+        "total": 51
+      },
+      "category": "AI候補",
+      "theme": "円安メリット / 原油・天然ガス / 円安",
+      "theme_tags": [
+        "円安メリット"
+      ],
+      "news_tags": [
+        "原油・天然ガス",
+        "円安"
+      ],
+      "earnings_score": 13,
+      "news_score": 12,
+      "macro_score": 10,
+      "catalyst_score": 35,
+      "earnings_summary": "資源高・円安メリット",
+      "catalyst_reason": "良決算/業績材料 +13 / ニュース材料 +12 / 世界情勢テーマ +10",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "良決算/業績材料 +13 / ニュース材料 +12 / 世界情勢テーマ +10。割安0点、テクニカル0点、材料加点16点。資源高・円安メリット",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "2914",
+      "name": "JT",
+      "price": 979.2,
+      "prev_close": 992.1,
+      "change": -12.899999999999977,
+      "change_pct": -1.3002721499848782,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 16.9,
+      "pbr": 2.88,
+      "roe": 13.5,
+      "dividend_yield": 3.58,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 920.5,
+        "resistance": 1098.5,
+        "buy_zone": "920.5〜957.3円",
+        "take_profit_1": "1131.5円",
+        "take_profit_2": "1208.4円",
+        "loss_cut": "892.9円",
+        "rsi14": 64.1,
+        "volume_ratio": 1.15,
+        "reason": "高速判定。支持線920.5円、抵抗線1098.5円、RSI64.1、出来高1.15倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 42,
+      "score_breakdown": {
+        "value_score": 4,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 42
+      },
+      "category": "AI候補",
+      "theme": "高配当/内需",
+      "theme_tags": [],
+      "news_tags": [
+        "高配当/内需"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安4点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    },
+    {
+      "ok": true,
+      "code": "2802",
+      "name": "味の素",
+      "price": 986.6,
+      "prev_close": 993.3,
+      "change": -6.699999999999932,
+      "change_pct": -0.6745192791704351,
+      "price_source": "quick_demo_fallback",
+      "updated_at": "01:30",
+      "per": 17.2,
+      "pbr": 3.11,
+      "roe": 11.1,
+      "dividend_yield": 1.64,
+      "evals": {
+        "per": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "pbr": {
+          "label": "基準外",
+          "color": "green"
+        },
+        "roe": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "dy": {
+          "label": "普通",
+          "color": "orange"
+        },
+        "rsi": {
+          "label": "通常",
+          "color": "orange"
+        },
+        "vol": {
+          "label": "通常",
+          "color": "orange"
+        }
+      },
+      "strategy": {
+        "status": "様子見",
+        "support": 893.7,
+        "resistance": 1084.3,
+        "buy_zone": "893.7〜929.4円",
+        "take_profit_1": "1116.8円",
+        "take_profit_2": "1192.7円",
+        "loss_cut": "866.9円",
+        "rsi14": 61.3,
+        "volume_ratio": 0.86,
+        "reason": "高速判定。支持線893.7円、抵抗線1084.3円、RSI61.3、出来高0.86倍。詳細画面では実チャートで再計算。"
+      },
+      "ai_score": 38,
+      "score_breakdown": {
+        "value_score": 0,
+        "technical_score": 0,
+        "catalyst_points": 3,
+        "total": 38
+      },
+      "category": "AI候補",
+      "theme": "食品/バイオ",
+      "theme_tags": [],
+      "news_tags": [
+        "食品/バイオ"
+      ],
+      "earnings_score": 0,
+      "news_score": 6,
+      "macro_score": 0,
+      "catalyst_score": 6,
+      "earnings_summary": "JPXユニバース登録銘柄",
+      "catalyst_reason": "ニュース材料 +6",
+      "news_source": "登録材料/テーマCSV",
+      "ai_reason": "ニュース材料 +6。割安0点、テクニカル0点、材料加点3点。JPXユニバース登録銘柄",
+      "fast_mode": true
+    }
+  ],
+  "count": 60,
+  "universe_total": 97
+}
