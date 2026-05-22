@@ -1,0 +1,8 @@
+{
+  "compile_ok": true,
+  "version": true,
+  "settings_removed": true,
+  "help_removed": true,
+  "all_expected_pages_exist": true,
+  "aliases_fixed": true
+}
