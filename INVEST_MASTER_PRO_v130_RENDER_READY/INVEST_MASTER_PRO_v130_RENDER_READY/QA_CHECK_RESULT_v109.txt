@@ -1,0 +1,6 @@
+v109 chart mousemove stretch fix
+- mousemove does not call drawChart/loadChart/fit/autoscale
+- crosshair/tooltip use transform only
+- wheel/drag/touch prevented
+- resize redraws current data only without resetting timeframe/view
+- chart container/canvas overflow locked
