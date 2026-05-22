@@ -1,8 +1,0 @@
-{
-  "compile_ok": true,
-  "version": true,
-  "drawer_fix_css": true,
-  "drawer_fix_js": true,
-  "close_on_mobile_go": true,
-  "body_drawer_open": true
-}

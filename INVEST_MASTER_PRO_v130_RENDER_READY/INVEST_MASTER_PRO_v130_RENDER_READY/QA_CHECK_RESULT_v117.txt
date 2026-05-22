@@ -1,6 +1,0 @@
-v117 PRICE TRUTH 確認
-
-画面左上: v117 PRICE TRUTH OS と表示される
-AI候補一覧: /api/candidates取得後、各銘柄の/api/chart最新終値で価格を再上書き
-サーバー側: analyze_userでもチャート最新値を一覧価格へ同期
-目的: AI候補一覧の価格とチャート現在値のズレを潰す

@@ -1,6 +1,0 @@
-{
-  "compile_ok": true,
-  "full_menu_js": true,
-  "full_menu_css": true,
-  "all_menu_labels": true
-}

@@ -1,7 +1,0 @@
-{
-  "compile_ok": true,
-  "mobile_css": true,
-  "bottom_nav": true,
-  "viewport": true,
-  "requirements": true
-}
