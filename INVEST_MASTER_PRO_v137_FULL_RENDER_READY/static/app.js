@@ -1,4 +1,0 @@
-function openMenu(){document.getElementById('drawer').classList.add('open');document.body.style.overflow='hidden'}
-function closeMenu(){document.getElementById('drawer').classList.remove('open');document.body.style.overflow=''}
-function show(id){document.querySelectorAll('.page').forEach(p=>p.classList.add('hidden'));const el=document.getElementById(id);if(el)el.classList.remove('hidden');closeMenu();scrollTo(0,0)}
-function addHolding(){const c=document.getElementById('code').value||'----';const n=document.getElementById('name').value||'新規銘柄';document.getElementById('holdList').insertAdjacentHTML('afterbegin',`<div class="row"><div><strong>${c} ${n}</strong><small>手動追加</small></div><span class="tag">追加</span></div>`);document.getElementById('code').value='';document.getElementById('name').value=''}
